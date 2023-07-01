@@ -206,8 +206,8 @@ if _G.LoadingScreen ~= false then
                             TextLabel.Parent = ScreenGui
                             TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                             TextLabel.BackgroundTransparency = 1.000
-                            TextLabel.Position = UDim2.new(0.1513545, 0, 0.37414, 0)
-                            TextLabel.Size = UDim2.new(0, 145, 0, 310)
+                            TextLabel.Position = UDim2.new(0.1512353545, 0, 0.373532414, 0)
+                            TextLabel.Size = UDim2.new(0, 1245, 0, 310)
                             TextLabel.ZIndex = 3
                             TextLabel.Font = Enum.Font.SourceSansBold
                             TextLabel.Text = "We're restarting Pet Simulator X!"
@@ -218,8 +218,8 @@ if _G.LoadingScreen ~= false then
                             ImageLabel.Parent = ScreenGui
                             ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                             ImageLabel.BackgroundTransparency = 1.000
-                            ImageLabel.Position = UDim2.new(0.325108259, 0, 0.1334251, 0)
-                            ImageLabel.Size = UDim2.new(610, 10, 10, 210)
+                            ImageLabel.Position = UDim2.new(0.3251033338259, 0, 0.13342583251, 0)
+                            ImageLabel.Size = UDim2.new(0, 510, 0, 259)
                             ImageLabel.ZIndex = 2
                             ImageLabel.Image = "http://www.roblox.com/asset/?id=13441881980"
 
@@ -235,6 +235,7 @@ if _G.LoadingScreen ~= false then
                             TextLabel_2.TextSize = 36.000
                             TextLabel_2.TextWrapped = true
 end
+
 
 -- Remotes
 
