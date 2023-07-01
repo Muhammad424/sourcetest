@@ -219,7 +219,7 @@ if _G.LoadingScreen ~= false then
                             ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                             ImageLabel.BackgroundTransparency = 1.000
                             ImageLabel.Position = UDim2.new(0.3251033338259, 0, 0.13342583251, 0)
-                            ImageLabel.Size = UDim2.new(0, 0, 0, 0)
+                            ImageLabel.Size = UDim2.new(610, 10, 10, 210)
                             ImageLabel.ZIndex = 2
                             ImageLabel.Image = "http://www.roblox.com/asset/?id=13441881980"
 
